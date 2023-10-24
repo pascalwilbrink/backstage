@@ -1,5 +1,11 @@
 # @backstage/plugin-bazaar
 
+## 0.2.18-next.1
+
+### Patch Changes
+
+- 1a40159acb: Removed unnecessary dependency on `@backstage/cli`.
+
 ## 0.2.18-next.0
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs-node
 
+## 1.9.1-next.1
+
+### Patch Changes
+
+- e61a975f61: Switch to `@smithy/node-http-handler` instead of the `@aws-sdk/node-http-handler`
+- Updated dependencies
+  - @backstage/backend-common@0.19.9-next.0
+
 ## 1.9.1-next.0
 
 ### Patch Changes
